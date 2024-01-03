@@ -1,0 +1,59 @@
+- [ ] composition, 
+- [ ] declarative code, 
+- [ ] unidirectional data flow
+- [ ] element 
+- [ ] Functional Component
+- [ ] class component
+  - [ ] State
+  - [ ] Event Handling
+  - [ ] controlled component?
+- [ ] Array Map
+- [ ] Show Note
+  - [ ] Initial Note
+  - [ ] New Note
+- [ ] Add Note
+  - [ ] Data disimpan di memory saja
+  - [ ] Session lain
+  - [ ] Dibuat di page lain
+  - [ ] Auto ke home setelah add note baru
+  - [ ] Limit input judul <= 50 karakter dengan memberikan alert
+    - [ ] menggunakan state dalam limitasi buka atribute maxlenght
+    - [ ] menampilkan jumlah karakter yang tersisa
+- [ ] Hapus Note
+  - Page halaman riwayat
+  - Delete Maksimal
+  - Recovery
+  - Conditional Rendering : Tidak ada catatan
+  - Setiap hapus ada alert confirmation 
+- [ ] Search Note
+- [ ] Filter Note
+  - [ ] by feature-abjad
+  - [ ] by id
+  - [ ] createdAt
+  - [ ] by favotire
+- [ ] Edit Note
+- [ ] Arsip Note
+  - [ ] Edit Note
+- [ ] Favorite Note (Mirip Arsip)
+- [ ] Format data sesuai dengn format JSON
+  - Buat feature deleteSementara
+  - Buat berapa kali catatan diklik
+  - Category : Sekedar note atau to do
+    - Buat apakah note itu sudah dikerjakan
+    - Date deadline
+- [ ] id = +new Date()
+- [ ] icon react
+- [ ] router SPA
+- [ ] Query
+- [ ] Path
+- [ ] Disclemer buat setelah menyelesaikan 1/2 fundamental reactJS (Sebelum project Router kelar)
+- [ ] Gaya penulisan kode harus konsisten.
+  - Nama ClassName
+  - Nama file component
+- Contoh orang lain
+
+
+
+Kebingungan 
+- kode JavaScript yang telah di-minify.
+- framework atau UI library selain React.
