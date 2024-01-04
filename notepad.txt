@@ -1,3 +1,10 @@
+Contoh : https://dicoding-react-note-app.netlify.app/
+Contoh : https://dicoding-react-notes-app-v1.netlify.app/
+  - Sub : Tips & Trick
+Contoh : https://dicoding-react-notes-app-v2.netlify.app/ [Belum Ulik]
+  - email : admin@admin.com
+  - pwd : admin123
+
 - [ ] composition, 
 - [ ] declarative code, 
 - [ ] unidirectional data flow
@@ -19,6 +26,8 @@
   - [ ] Limit input judul <= 50 karakter dengan memberikan alert
     - [ ] menggunakan state dalam limitasi buka atribute maxlenght
     - [ ] menampilkan jumlah karakter yang tersisa
+  - [ ] jika saat input koosng, kasih aler
+  - Click to detailnya bukan di judul melain di cardnya
 - [ ] Hapus Note
   - Page halaman riwayat
   - Delete Maksimal
@@ -33,8 +42,14 @@
   - [ ] by favotire
 - [ ] Edit Note
 - [ ] Arsip Note
-  - [ ] Edit Note
+  - [ ] Bisa Edit Note
+  - [ ] alert unarsip
+  - [ ] Bisa search, filter, delete, update
 - [ ] Favorite Note (Mirip Arsip)
+- [ ] Detail note
+  - [ ] From daftar note
+  - [ ] from arsip note dan favorite note
+  - [ ] menampilakn icon arsip, favorotie, edit, delete
 - [ ] Format data sesuai dengn format JSON
   - Buat feature deleteSementara
   - Buat berapa kali catatan diklik
@@ -48,11 +63,36 @@
 - [ ] Path
 - [ ] Disclemer buat setelah menyelesaikan 1/2 fundamental reactJS (Sebelum project Router kelar)
 - [ ] Gaya penulisan kode harus konsisten.
-  - Nama ClassName
-  - Nama file component
-- Contoh orang lain
-
-
+  - [ ] Nama ClassName
+  - [ ] Nama file component
+  - [ ] penggunaan single quote/double quote ketika membuat nilai string
+  - [ ] jumlah spasi dalam indentasi kode, 
+  - [ ] penggunaan semicolon pada akhir statement.
+- [ ] Contoh orang lain github 
+- [ ] propType
+- [ ] Tidak ada warning apapun di console log, masalah title=span
+- [ ] 404 Pages
+- [ ] Translate
+- [ ] Dark Mode Swtich
+- [ ] Login
+- [ ] Register
+- [ ] lupa password
+- [ ] password confirmation pass sama detection
+- [ ] type input email reuqired
+- [ ] password detection kuat
+- [ ] limit name 
+- [ ] Port Forwading
+- [ ] netlify.app
+- [ ] Responsive di ukuran mobile
+- [ ] contentEditable
+- [ ] onInput={this.onInputHandler}
+- [ ] pengelompokkan file dengan jelas
+- Cek README contact App
+  - [ ] Penjelasan pembagian modularize
+  - [ ] Penjelasan PropType
+- [ ] Icon back pada selain page home
+- [ ] Icon diatas kanan atas dibikin sidebar hide
+- [ ] Icon BookMark and Delete ada di card item 
 
 Kebingungan 
 - kode JavaScript yang telah di-minify.
