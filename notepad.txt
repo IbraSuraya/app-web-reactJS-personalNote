@@ -1,6 +1,5 @@
 Contoh : https://dicoding-react-note-app.netlify.app/
 Contoh : https://dicoding-react-notes-app-v1.netlify.app/
-  - Sub : Tips & Trick
 Contoh : https://dicoding-react-notes-app-v2.netlify.app/ [Belum Ulik]
   - email : admin@admin.com
   - pwd : admin123

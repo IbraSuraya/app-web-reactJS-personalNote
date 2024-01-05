@@ -324,6 +324,34 @@ main {
   color: var(--on-background);
 }
 
+.floating-btnAdd-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.floating-btnAdd {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 60px;
+  height: 60px;
+  background-color: var(--on-background);
+  color: var(--background);
+  border-radius: 50%;
+  font-size: 34px;
+  text-decoration: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease-in-out;
+  position: fixed;
+  bottom: 90px;
+  right: 30px;
+}
+
+.floating-btnAdd:hover {
+  background-color: var(--on-background-grey);
+}
+
 @media screen and (min-width: 650px) {
   .notes-list {
     grid-template-columns: repeat(2, 1fr);

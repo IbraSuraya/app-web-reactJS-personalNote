@@ -16,6 +16,7 @@ function NoteItem({id, title, createdAt, body, archived}) {
 };
 
 NoteItem.prototype = {
+  id: Protypes.string.isRequired,
   title: Protypes.string.isRequired,
   createdAt: Protypes.string.isRequired,
   body: Protypes.string.isRequired,
