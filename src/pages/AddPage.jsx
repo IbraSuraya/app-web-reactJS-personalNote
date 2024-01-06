@@ -1,18 +1,12 @@
 import React from "react";
+import NoteInput from "../components/NoteInput";
 
-class AddPage extends React.Component {
-  constructor(props){
-    super(props);
-  };
-
-  render() {
-    return (
-      <div className="add-new-page__action">
-        <h3>Add Page</h3>
-      </div>
-    );
-  };
+function AddPage() {
+  return (
+    <div className="add-new-page__action">
+      <NoteInput />
+    </div>
+  );
 };
-
 
 export default AddPage;

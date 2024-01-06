@@ -235,8 +235,9 @@ main {
   color: var(--on-background);
   font-family: 'Inter', sans-serif;
   font-size: 24px;
-  padding: 8px 0;
-  min-height: 500px;
+  padding: 8px 10px;
+  min-height: 500px; 
+  max-width: 900px;
 }
 
 [data-placeholder]:empty::before {
